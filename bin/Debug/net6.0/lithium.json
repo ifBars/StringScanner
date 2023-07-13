@@ -1,0 +1,6 @@
+[
+  "['lithium'] = { {File path: C:\\dump\\core_crafting\\config.lua }",
+  "            {item = \"lithium\", requiredAmount = 3}, {File path: C:\\dump\\lambra-drugTables\\config.lua }",
+  "  \t[\"lithium\"] \t\t\t\t \t= {[\"name\"] = \"lithium\", \t\t\t  \t\t\t[\"label\"] = \"Lithium\", \t\t\t\t\t[\"weight\"] = 3000, \t\t[\"type\"] = \"item\", \t\t[\"image\"] = \"lithium.png\", \t\t\t\t[\"unique\"] = false, \t[\"useable\"] = false, \t[\"shouldClose\"] = false,    [\"combinable\"] = nil,   [\"description\"] = \"Lithium!\"}, {File path: C:\\dump\\qb-core\\shared\\items.lua }",
+  "\t\t\t\t\t{ [\"object\"] = \"bkr_prop_meth_lithium\", [\"price\"] = 50, [\"label\"] = \"Meth Lithium\" }, {File path: C:\\dump\\qs-housing\\config\\config_furniture.lua }"
+]

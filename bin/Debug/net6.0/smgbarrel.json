@@ -1,0 +1,4 @@
+[
+  "\t-- \tImage = 'smgbarrel', {File path: C:\\dump\\core_crafting\\config.lua }",
+  "\t['smg_barrel'] \t\t\t\t \t= {['name'] = 'smg_barrel', \t\t\t  \t  \t['label'] = 'SMG Barrel', \t\t\t\t['weight'] = 1000, \t\t['type'] = 'item', \t\t['image'] = 'smgbarrel.png', \t\t\t['unique'] = false, \t['useable'] = false, \t['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = ''}, {File path: C:\\dump\\qb-core\\shared\\items.lua }"
+]

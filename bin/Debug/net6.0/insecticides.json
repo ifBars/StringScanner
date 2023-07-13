@@ -1,0 +1,3 @@
+[
+  "\t[\"weed_insecticide\"] \t\t\t = {[\"name\"] = \"weed_insecticide\", \t\t\t\t[\"label\"] = \"Insecticide\", \t\t\t\t[\"weight\"] = 100, \t\t[\"type\"] = \"item\", \t\t[\"image\"] = \"insecticides.png\", \t    [\"unique\"] = false, \t[\"useable\"] = true, \t[\"shouldClose\"] = true,    [\"combinable\"] = nil,   [\"description\"] = \"Plant Insecticides\"}, {File path: C:\\dump\\qb-core\\shared\\items.lua }"
+]

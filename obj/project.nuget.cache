@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VTeYnkoafDQ7YSnQB181AkZ/jXrg7buw0ISeoC8Nv27GOKw83F3lAACAtpcT6wlFXudVw4rPgLMKSHbGhU7LlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ghost\\source\\repos\\StringScanner\\StringScanner\\StringScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ghost\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

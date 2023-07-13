@@ -1,0 +1,5 @@
+[
+  "\t['racingtablet'] \t\t\t\t = { ['name'] = 'racingtablet', \t\t['label'] = 'Racing tablet', \t\t\t['weight'] = 1000, \t\t['type'] = 'item', \t\t['image'] = 'racingtablet.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Seems like something to do with cars.' }, {File path: C:\\dump\\qb-core\\shared\\items.lua }",
+  "export 'openRacingTablet' {File path: C:\\dump\\rahe-racing\\fxmanifest.lua }",
+  "-- CLIENT export - This function is exported, so it can be opened from any other client-side script by using 'exports['rahe-racing']:openRacingTablet()' {File path: C:\\dump\\rahe-racing\\api\\client.lua }"
+]

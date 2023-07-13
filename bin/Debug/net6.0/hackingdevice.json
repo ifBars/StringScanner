@@ -1,0 +1,7 @@
+[
+  "RegisterNetEvent('gaba-hackingdevice:Shop', function(data) {File path: C:\\dump\\gaba-hackingdevice\\client\\client.lua }",
+  "\t['hackingdevice'] \t\t\t\t= { ['name'] = 'hackingdevice', \t\t['label'] = 'Hacking device', \t\t\t['weight'] = 1000, \t\t['type'] = 'item', \t\t['image'] = 'hackingdevice.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Will allow you to bypass vehicle security systems.' }, {File path: C:\\dump\\qb-core\\shared\\items.lua }",
+  "    'rahe-hackingdevice', {File path: C:\\dump\\rahe-boosting\\fxmanifest.lua }",
+  "    RegisterCommand(\"usehackingdevice\", function() {File path: C:\\dump\\rahe-boosting\\api\\client.lua }",
+  "    -- If the default commands (/boosting, /usehackingdevice, /usegpshackingdevice) should be enabled. Disable this if you have them as inventory items. {File path: C:\\dump\\rahe-boosting\\config\\client.lua }"
+]

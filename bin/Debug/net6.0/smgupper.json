@@ -1,0 +1,3 @@
+[
+  "\t['smg_upper'] \t\t\t\t \t= {['name'] = 'smg_upper', \t\t\t  \t  \t\t['label'] = 'SMG Upper Component', \t\t['weight'] = 1000, \t\t['type'] = 'item', \t\t['image'] = 'smgupper.png', \t\t\t['unique'] = false, \t['useable'] = false, \t['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = ''}, {File path: C:\\dump\\qb-core\\shared\\items.lua }"
+]

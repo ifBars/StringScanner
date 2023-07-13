@@ -1,0 +1,6 @@
+[
+  "Config.ItemName = 'methtray' {File path: C:/dump\\kevin-methruns\\config.lua }",
+  "--CUSTOM METHTRAY REWARD EVENT------------------------------------------------------------------------------------------------------------------------------------------------- {File path: C:/dump\\kevin-methruns\\client\\client.lua }",
+  "    'methtray', {File path: C:/dump\\nx-frisk\\config.lua }",
+  "\t[\"methtray\"] \t\t\t    \t= {[\"name\"] = \"methtray\",\t\t\t\t[\"label\"] = \"Meth Tray\",\t\t\t\t[\"weight\"] = 1000,    \t[\"type\"] = \"item\",\t\t[\"image\"] = \"methtray.png\",         \t[\"unique\"] = true,\t\t[\"useable\"] = false,\t[\"shouldClose\"] = true,    [\"combinable\"] = nil,   [\"description\"] = \"\",\t\t\t\t\t\t\t\t[\"created\"] = nil, \t\t[\"decay\"] = 0.0\t}, {File path: C:/dump\\qb-core\\shared\\items.lua }"
+]

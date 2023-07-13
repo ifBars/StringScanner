@@ -1,0 +1,9 @@
+[
+  "    -- Hill Valley church - Grave: -282.46380000, 2835.84500000, 55.91446000 {File path: C:\\dump\\bob74_ipl\\gtav\\base.lua }",
+  "\t[-1885639488] = 'ch1_01_church', {File path: C:\\dump\\qb-adminmenu\\entityhashes\\entity.lua }",
+  "-- drmc-church created by Gabagool {File path: C:\\dump\\qb-doorlock\\configs\\drmc.lua }",
+  "-- soo:church created by Gabagool {File path: C:\\dump\\qb-doorlock\\configs\\soo.lua }",
+  "    ['church'] = { {File path: C:\\dump\\qb-garages\\config.lua }",
+  "        ['fa-church'] = 'https://raw.githubusercontent.com/SloppyDesigns/font-awesome/main/solid/church.svg', {File path: C:\\dump\\sd-stashes\\client\\sd-menu.lua }",
+  "\t\t{img = \"img/avatar/avatar5.png\", names = {\"Rocha Harrell\",\"Gilliam Thomas\",\"Osborne Blevins\",\"Elba Chambers\",\"Heath Price\",\"Melinda Maynard\",\"Ashlee Johns\",\"Shelton Petty\",\"Carey Mcclain\",\"Blackwell Horne\",\"Deborah Gonzalez\",\"Buck Faulkner\",\"Celina Chang\",\"Kennedy Patrick\",\"Atkinson Sherman\",\"Janelle Tyson\",\"Noelle Vincent\",\"Leah Barron\",\"Angeline Sellers\",\"Trudy Murray\",\"Contreras Hardy\",\"Fletcher Todd\",\"Benson Singleton\",\"Sanford Dean\",\"Hartman Wilkinson\",\"Harriet Robinson\",\"Vivian Osborn\",\"Ida Simmons\",\"Tamara Merrill\",\"Esmeralda Baird\",\"Maynard Oneal\",\"Brianna Greene\",\"Pat Stewart\",\"Tate Wood\",\"French Farrell\",\"Jolene Calderon\",\"Irene Roth\",\"Dina Waller\",\"Gonzalez Alvarez\",\"Leigh Durham\",\"Eve Moody\",\"Lydia Hewitt\",\"Price Summers\",\"Duran Schultz\",\"Rena Williamson\",\"Meagan Shaffer\",\"Angelique Dennis\",\"Graham Love\",\"Sheree Lynn\",\"Church Golden\"}}, {File path: C:\\dump\\truck_logistics\\config.lua }"
+]

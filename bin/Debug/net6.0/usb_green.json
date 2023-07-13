@@ -1,0 +1,5 @@
+[
+  "Config.RareItem = {\"usb_green\",\"usb_orange\", \"diamond\"} -- Change to whatever item you want the rare item to get is {File path: C:\\dump\\kevin-banktrucks\\config.lua }",
+  "            [\"item\"] = \"usb_green\", {File path: C:\\dump\\qb-burglary\\houses\\tier3.lua }",
+  "\t--[\"usb_green\"] \t\t \t \t\t= {[\"name\"] = \"usb_green\",           \t\t\t[\"label\"] = \"USB Drive\",\t \t\t\t[\"weight\"] = 1000, \t\t[\"type\"] = \"item\", \t\t[\"image\"] = \"usb_green.png\", \t\t\t[\"unique\"] = false, \t[\"useable\"] = true, \t[\"shouldClose\"] = false,   \t[\"combinable\"] = nil,   [\"description\"] = \"A green USB flash drive\"}, {File path: C:\\dump\\qb-core\\shared\\items.lua }"
+]

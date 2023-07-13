@@ -1,0 +1,4 @@
+[
+  "            tec9_bp = { {File path: C:/dump\\drc_crafting\\shared\\sh_config.lua }",
+  "\t['tec9bp'] \t\t\t\t\t\t= {['name'] = 'tec9bp', \t\t\t  \t\t\t['label'] = 'Tech-9 Blueprints', \t\t['weight'] = 1000, \t\t['type'] = 'item', \t\t['image'] = 'tech9bp.png', \t\t\t\t['unique'] = false, \t\t['useable'] = false, \t['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = ''}, {File path: C:/dump\\qb-core\\shared\\items.lua }"
+]

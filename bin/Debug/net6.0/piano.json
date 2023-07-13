@@ -1,0 +1,5 @@
+[
+  "    'pianokey', {File path: C:/dump\\boii-salvagediving\\config.lua }",
+  "        elevator_main = '[E] - Prendi l\\'ascensore fino al piano', {File path: C:/dump\\qb-ambulancejob\\locales\\it.lua }",
+  "\t['pianokey'] \t\t\t\t\t = {['name'] = 'pianokey', \t\t  \t\t['label'] = 'Piano Key', \t\t\t\t['weight'] = 0, \t\t['type'] = 'item', \t\t['image'] = 'pianokey.png', \t\t\t['unique'] = true, \t\t['useable'] = false, \t['shouldClose'] = true,\t   ['combinable'] = nil,   ['description'] = ''}, {File path: C:/dump\\qb-core\\shared\\items.lua }"
+]

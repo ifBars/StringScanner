@@ -1,0 +1,9 @@
+[
+  "    [GetHashKey('WEAPON_COMPACTRIFLE')] = 'Compact Rifle', {File path: C:\\dump\\monitor\\resource\\cl_logger.lua }",
+  "    [`WEAPON_COMPACTRIFLE`] = Config.WeaponClasses['MEDIUM_CALIBER'], {File path: C:\\dump\\qb-ambulancejob\\config.lua }",
+  "\t[`weapon_compactrifle`] \t\t = {['name'] = 'weapon_compactrifle', \t \t['label'] = 'Compact Rifle', \t\t\t\t['weapontype'] = 'Assault Rifle',\t['ammotype'] = 'AMMO_RIFLE',\t['damagereason'] = 'Ended / Rifled / Shot down / Floored'}, {File path: C:\\dump\\qb-core\\shared\\weapons.lua }",
+  "\t[1649403952] = 0.3,\t\t\t--['weapon_compactrifle'] {File path: C:\\dump\\qb-smallresources\\client\\recoil.lua }",
+  "\t'WEAPON_COMPACTRIFLE', {File path: C:\\dump\\qb-smallresources\\client\\weapdraw.lua }",
+  "    `PICKUP_WEAPON_COMPACTRIFLE`, {File path: C:\\dump\\qb-smallresources\\client\\weapdrop.lua }",
+  "\t['weapon_compactrifle'] \t\t= 0.15, {File path: C:\\dump\\qb-weapons\\config.lua }"
+]

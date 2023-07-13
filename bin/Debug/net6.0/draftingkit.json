@@ -1,0 +1,7 @@
+[
+  "                    { item = \"draftingkit\", label = \"Drafting Kit\", count = 1, remove = true }, {File path: C:/dump\\drc_crafting\\shared\\sh_config.lua }",
+  "    \"draftingkit\", {File path: C:/dump\\gaba-storage\\config.lua }",
+  "Config.draftingkit = 1 {File path: C:/dump\\Gaba-thermite\\config.lua }",
+  "RegisterNetEvent('Gaba-thermite:client:createdraftingkit', function () {File path: C:/dump\\Gaba-thermite\\client\\client.lua }",
+  "\t['draftingkit'] \t\t\t\t= {['name'] = 'draftingkit', \t\t\t  \t  \t['label'] = 'Drafting Kit', \t\t\t['weight'] = 1000, \t\t['type'] = 'item', \t\t['image'] = 'draftingkit.png', \t\t\t['unique'] = false, \t\t['useable'] = false, \t['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = ''}, {File path: C:/dump\\qb-core\\shared\\items.lua }"
+]

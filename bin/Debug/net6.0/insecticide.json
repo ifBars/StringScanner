@@ -1,0 +1,11 @@
+[
+  "Config.InsecticideEffect = 5        --Health increament of plant / insecticide  {File path: C:/dump\\qb-cocafarming\\config.lua }",
+  "    [\"giving_insecticide\"] = \"fa-solid fa-user-secret\", {File path: C:/dump\\qb-cocafarming\\client\\client_customise.lua }",
+  "                <div class=\"d-flex d-xl-flex justify-content-xl-center align-items-xl-center buttons-option\" id=\"insecticide-option\" style=\"width: 0;height: 100%;flex: 1;\"> {File path: C:/dump\\qb-cocafarming\\html\\index.html }",
+  "\t[\"weed_insecticide\"] \t\t\t = {[\"name\"] = \"weed_insecticide\", \t\t\t\t[\"label\"] = \"Insecticide\", \t\t\t\t[\"weight\"] = 100, \t\t[\"type\"] = \"item\", \t\t[\"image\"] = \"insecticides.png\", \t    [\"unique\"] = false, \t[\"useable\"] = true, \t[\"shouldClose\"] = true,    [\"combinable\"] = nil,   [\"description\"] = \"Plant Insecticides\"}, {File path: C:/dump\\qb-core\\shared\\items.lua }",
+  "Config.InsecticideEffect = 5        --Health increament of plant / insecticide  {File path: C:/dump\\qb-farming\\config.lua }",
+  "                <div class=\"d-flex d-xl-flex justify-content-xl-center align-items-xl-center buttons-option\" id=\"insecticide-option\" style=\"width: 0;height: 100%;flex: 1;\"> {File path: C:/dump\\qb-farming\\html\\index.html }",
+  "Config.InsecticideEffect = 5        --Health increament of plant / insecticide  {File path: C:/dump\\snipe-weedplanting\\config.lua }",
+  "\telseif type == \"giving-insecticide\" then {File path: C:/dump\\snipe-weedplanting\\client\\cl_customise.lua }",
+  "                <div class=\"d-flex d-xl-flex justify-content-xl-center align-items-xl-center buttons-option\" id=\"insecticide-option\" style=\"width: 0;height: 100%;flex: 1;\"> {File path: C:/dump\\snipe-weedplanting\\html\\index.html }"
+]

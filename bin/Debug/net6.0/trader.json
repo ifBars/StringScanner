@@ -1,0 +1,14 @@
+[
+  "local traderBuyGoods, traderSellGoods = {}, {} {File path: C:\\dump\\gp-traders\\client.lua }",
+  "name            'gp-traders' {File path: C:\\dump\\gp-traders\\fxmanifest.lua }",
+  "        title = 'Trader', {File path: C:\\dump\\gp-traders\\lang\\en.lua }",
+  "\t\t\t{ name = \"Recyclable Trader\", coords = vector4(742.36309814453, -1373.9674072266, 12.631042480469, 234.4), blipTrue = false, sprite = 365, col = 2, model = `G_M_M_ChemWork_01`, scenario = \"WORLD_HUMAN_CLIPBOARD\", }, {File path: C:\\dump\\jim-recycle\\config.lua }",
+  "\t--Recyclable Material Trader {File path: C:\\dump\\jim-recycle\\client\\client.lua }",
+  "    TradeRecevied_Min = 1, {File path: C:\\dump\\qb-lumberjack\\config.lua }",
+  "        QBCore.Functions.Progressbar('lumber_trader', Config.Alerts['lumber_progressbar'], LumberJob.ProcessingTime , false, true, { {File path: C:\\dump\\qb-lumberjack\\client\\main.lua }",
+  "    ['apple_trader'] = 'Received ' ..Config.AppleJuice.. ' apple juice from the farmer', {File path: C:\\dump\\qb-simplefarming\\config.lua }",
+  "\tname = \"processingtrader\", {File path: C:\\dump\\qb-simplefarming\\client\\main.lua }",
+  "description 'Traders' {File path: C:\\dump\\sd-traders\\fxmanifest.lua }",
+  "Config.RandomTraders = false -- Enable Random Trader Selection {File path: C:\\dump\\sd-traders\\config.lua }",
+  "local Traders = {} {File path: C:\\dump\\sd-traders\\client\\main.lua }"
+]

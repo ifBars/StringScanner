@@ -1,0 +1,5 @@
+[
+  "\t\t['battery_acid'] = 5, -- item name and count, adding items that dont exist in database will crash the script {File path: C:\\dump\\core_crafting\\config.lua }",
+  "\t\t\"battery_acid\", {File path: C:\\dump\\jim-recycle\\config.lua }",
+  "  \t[\"battery_acid\"] \t\t\t\t= {[\"name\"] = \"battery_acid\", \t\t\t  \t\t[\"label\"] = \"Battery Acid\", \t\t\t[\"weight\"] = 3000, \t\t[\"type\"] = \"item\", \t\t[\"image\"] = \"lithium.png\", \t\t\t\t[\"unique\"] = false, \t[\"useable\"] = false, \t[\"shouldClose\"] = false,    [\"combinable\"] = nil,   [\"description\"] = \"Battery Acid!\"}, {File path: C:\\dump\\qb-core\\shared\\items.lua }"
+]

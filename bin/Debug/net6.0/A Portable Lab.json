@@ -1,0 +1,3 @@
+[
+  "  \t[\"methlab\"] \t\t\t\t \t= {[\"name\"] = \"methlab\", \t\t\t  \t\t\t[\"label\"] = \"Lab\", \t\t\t\t\t\t[\"weight\"] = 3000, \t\t[\"type\"] = \"item\", \t\t[\"image\"] = \"lab.png\", \t\t\t\t\t[\"unique\"] = false, \t[\"useable\"] = false, \t[\"shouldClose\"] = false,    [\"combinable\"] = nil,   [\"description\"] = \"A portable Lab\"}, {File path: C:\\dump\\qb-core\\shared\\items.lua }"
+]

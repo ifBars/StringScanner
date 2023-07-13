@@ -1,0 +1,3 @@
+[
+  "\t['multitoolkit'] \t\t\t\t = {['name'] = 'multitoolkit', \t\t\t    \t['label'] = 'Plate Remover', \t\t\t['weight'] = 1000, \t\t['type'] = 'item', \t\t['image'] = 'multitoolkit.png', \t\t['unique'] = false, \t['useable'] = true, \t['shouldClose'] = false,   ['combinable'] = nil, \t[\"decay\"] = 15.0,   ['description'] = 'Used to remove plates'}, {File path: C:/dump\\qb-core\\shared\\items.lua }"
+]

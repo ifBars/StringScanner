@@ -1,0 +1,6 @@
+[
+  "Config.StartItem = 'rawmeth'-- Item needed to start the runs {File path: C:\\dump\\kevin-methruns\\config.lua }",
+  "        rewardItem = {item = \"rawmeth\", amount = 15}, --The final product that the player will receive {File path: C:\\dump\\lambra-drugTables\\config.lua }",
+  "    'rawmeth', {File path: C:\\dump\\nx-frisk\\config.lua }",
+  "\t[\"rawmeth\"] \t\t\t        = {[\"name\"] = \"rawmeth\",\t\t\t    [\"label\"] = \"Raw Meth\",\t        \t\t[\"weight\"] = 1000,    \t[\"type\"] = \"item\",\t\t[\"image\"] = \"rawmeth.png\",         \t\t[\"unique\"] = false,\t\t[\"useable\"] = false,\t[\"shouldClose\"] = true,    [\"combinable\"] = nil,   [\"description\"] = \"\",\t\t\t\t\t\t\t\t[\"created\"] = nil, \t\t[\"decay\"] = 0.0\t}, {File path: C:\\dump\\qb-core\\shared\\items.lua }"
+]

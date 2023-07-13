@@ -1,0 +1,8 @@
+[
+  "    \"glue\", {File path: C:/dump\\gaba-storage\\config.lua }",
+  "Config.glue = 4 {File path: C:/dump\\Gaba-thermite\\config.lua }",
+  "    local hasItem = QBCore.Functions.HasItem({\"paper_bale\" , \"glue\"}) {File path: C:/dump\\Gaba-thermite\\client\\client.lua }",
+  "\t[-269909075] = 'ap1_01_a_ap1_01a_glue_02', {File path: C:/dump\\qb-adminmenu\\entityhashes\\entity.lua }",
+  "\t['glue'] \t\t\t\t\t\t= {['name'] = 'glue', \t\t\t  \t  \t\t\t['label'] = 'Glue Bucket', \t\t\t\t['weight'] = 1000, \t\t['type'] = 'item', \t\t['image'] = 'glue.png', \t\t\t\t['unique'] = false, \t['useable'] = false, \t['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = ''}, {File path: C:/dump\\qb-core\\shared\\items.lua }",
+  "            name = \"glue\", {File path: C:/dump\\qb-shops\\config.lua }"
+]

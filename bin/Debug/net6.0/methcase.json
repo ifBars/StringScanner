@@ -1,0 +1,4 @@
+[
+  "Config.Caseitem = 'methcase' {File path: C:/dump\\kevin-methruns\\config.lua }",
+  "\t[\"methcase\"] \t\t\t     \t= {[\"name\"] = \"methcase\",\t\t\t\t[\"label\"] = \"Shiny Case\",\t\t\t\t[\"weight\"] = 4500,    \t[\"type\"] = \"item\",\t\t[\"image\"] = \"securitycase.png\",         [\"unique\"] = true,\t\t[\"useable\"] = true,\t    [\"shouldClose\"] = true,    [\"combinable\"] = nil,   [\"description\"] = \"Briefcase full of money\"}, {File path: C:/dump\\qb-core\\shared\\items.lua }"
+]

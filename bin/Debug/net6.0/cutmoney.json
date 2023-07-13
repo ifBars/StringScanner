@@ -1,0 +1,4 @@
+[
+  "\t['cutmoney'] \t\t\t\t\t = {['name'] = 'cutmoney', \t\t\t  \t  \t\t['label'] = 'Cut Money', \t\t\t\t['weight'] = 200, \t\t['type'] = 'item', \t\t['image'] = 'cutmoney.png', \t\t\t['unique'] = true, \t\t['useable'] = false, \t['shouldClose'] = true,\t   ['combinable'] = nil,   ['description'] = 'cutmoney'}, {File path: C:\\dump\\qb-core\\shared\\items.lua }",
+  "Config.CutBills = \"cutmoney\" {File path: C:\\dump\\qb-moneywash\\config.lua }"
+]

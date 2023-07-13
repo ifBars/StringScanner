@@ -1,0 +1,4 @@
+[
+  "                    { item = \"paper_roll\", label = \"Paper Roll\", count = 1, remove = true }, -- Which Items should are required {File path: C:/dump\\drc_crafting\\shared\\sh_config.lua }",
+  "\t['paper_roll'] \t\t\t\t\t= {['name'] = 'paper_roll', \t\t\t  \t\t['label'] = 'Paper Roll', \t\t\t\t['weight'] = 1000, \t\t['type'] = 'item', \t\t['image'] = 'paperroll.png', \t\t\t['unique'] = false, \t['useable'] = false, \t['shouldClose'] = true,   ['combinable'] = nil,   ['description'] = ''}, {File path: C:/dump\\qb-core\\shared\\items.lua }"
+]

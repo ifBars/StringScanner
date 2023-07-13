@@ -1,0 +1,13 @@
+[
+  "    BikerCocaine.LoadDefault() -- Cocaine lockup: 1093.6, -3196.6, -38.99841 {File path: C:\\dump\\bob74_ipl\\client.lua }",
+  "    , \"dlc_bikers/cocaine.lua\" {File path: C:\\dump\\bob74_ipl\\fxmanifest.lua }",
+  "-- Cocaine lockup: 1093.6, -3196.6, -38.99841 {File path: C:\\dump\\bob74_ipl\\dlc_bikers\\cocaine.lua }",
+  "\t\t['coca_leaf'] = 120, -- item name and count, adding items that dont exist in database will crash the script {File path: C:\\dump\\core_crafting\\config.lua }",
+  "    if inside == \"cocaine\" then  {File path: C:\\dump\\pablito_container_lab\\client.lua }",
+  "        inside = \"weed\",     -- Props inside (\"meth\", \"weed\", \"cocaine\")   {File path: C:\\dump\\pablito_container_lab\\config.lua }",
+  "            [\"item\"] = \"coca_seed\", {File path: C:\\dump\\qb-burglary\\houses\\tier2.lua }",
+  "Config.Foldername = \"qb-cocafarming\" -- folder name if you replicate the folder to make a new farming {File path: C:\\dump\\qb-cocafarming\\config.lua }",
+  "\t['cokebaggy'] \t\t\t\t\t = {['name'] = 'cokebaggy', \t\t\t  \t  \t['label'] = 'Bag of Coke', \t\t\t\t['weight'] = 200, \t\t['type'] = 'item', \t\t['image'] = 'cocaine_baggy.png', \t\t['unique'] = false, \t['useable'] = true, \t['shouldClose'] = true,    ['combinable'] = nil,   ['description'] = 'To get happy real quick'}, {File path: C:\\dump\\qb-core\\shared\\items.lua }",
+  "    -- Cocaine Lab {File path: C:\\dump\\qs-housing\\config\\config_ipl.lua }",
+  "        name = \"Cocaine\", {File path: C:\\dump\\snipe-drugzones\\config.lua }"
+]

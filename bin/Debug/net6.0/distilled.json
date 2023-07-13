@@ -1,0 +1,5 @@
+[
+  "\t\t['distilled_alcohol'] = 5, -- item name and count, adding items that dont exist in database will crash the script {File path: C:\\dump\\core_crafting\\config.lua }",
+  "\t\t\t{ name = \"distilled_alcohol\", price = 40, amount = 200, info = {}, type = \"item\", slot = 13, }, {File path: C:\\dump\\jim-jadewok\\config.lua }",
+  "\t[\"distilled_alcohol\"] \t\t\t= {[\"name\"] = \"distilled_alcohol\",  \t    \t[\"label\"] = \"Distilled Alcohol\",\t\t[\"weight\"] = 100, \t\t[\"type\"] = \"item\", \t\t[\"image\"] = \"distilledalcohol.png\", \t[\"unique\"] = false, \t[\"useable\"] = true, \t[\"shouldClose\"] = true,   \t[\"combinable\"] = nil,   [\"description\"] = \"\" }, {File path: C:\\dump\\qb-core\\shared\\items.lua }"
+]
