@@ -67,7 +67,7 @@ class Program
                 Console.SetCursorPosition(0, Console.CursorTop); // move cursor to beginning of initial line
                 Console.Write("\rHits : " + hits.ToString());
                 // Console.WriteLine("Checking for lua files");
-                if (filePath.EndsWith(".lua") || filePath.EndsWith(".txt") || filePath.EndsWith(".json") || filePath.EndsWith(".xml") || filePath.EndsWith(".cfg") || filePath.EndsWith(".config") || filePath.EndsWith(".meta") || filePath.EndsWith(".js") || filePath.EndsWith(".html") || filePath.EndsWith(".css"))
+                if (filePath.EndsWith(".lua") || filePath.EndsWith(".txt") || filePath.EndsWith(".json") || filePath.EndsWith(".xml") || filePath.EndsWith(".cfg") || filePath.EndsWith(".config") || filePath.EndsWith(".meta") || filePath.EndsWith(".js") || filePath.EndsWith(".html"))
                 {
                     // Console.WriteLine("Reading lines of " + filePath);
                     string[] lines = File.ReadAllLines(filePath);
